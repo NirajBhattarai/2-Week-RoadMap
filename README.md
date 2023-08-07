@@ -44,3 +44,4 @@
 #### Day 10: The Future and Wrap-up
 - Exploration of Layer 2 solutions and Eth2
 - Introduction to new blockchain projects and the road ahead
+- Prompt Engineering: Programming using ChatGPT
